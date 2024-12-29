@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Neel Adalja]!
+# 👋 Hi, I'm [Neel Adalja]
 
 Welcome to my GitHub profile! I'm a passionate Data scientist who loves working on innovative projects and exploring new technologies.
 
