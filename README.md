@@ -72,6 +72,8 @@ Here are some of my best works:
 
 ### 🌟 Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=neeladalja14&theme=dracula)
+![GitHub Activity Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=neeladalja14&show_icons=true&count_private=true&hide=html&layout=compact)
+
 
 ### 📈 Detailed Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neeladalja14&show_icons=true&theme=radical)
