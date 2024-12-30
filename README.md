@@ -71,8 +71,7 @@ Here are some of my best works:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neeladalja14&theme=dark)
 
 ### 🌟 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=neeladalja14&theme=dracula)
-![GitHub Activity Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=neeladalja14&show_icons=true&count_private=true&hide=html&layout=compact)
+![GitHub Activity Graph](https://github-readme-stats.vercel.app/api/generate?username=neeladalja14&theme=dracula)
 
 
 ### 📈 Detailed Stats
