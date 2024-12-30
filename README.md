@@ -71,10 +71,6 @@ Here are some of my best works:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neeladalja14&theme=dark)
 
 ### 🌟 Activity Graph
-![GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=neeladalja14&show_icons=true&theme=dracula)
-
-
-### 📈 Detailed Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neeladalja14&show_icons=true&theme=radical)
 
 ### 🖥️ Top Languages
@@ -88,6 +84,11 @@ Here are some of my best works:
 - [**Blog Post 3**](#): My Experience Building a Dockerized Web App.
 
 ---
+
+## 📈 Certifications
+<p align="left">
+<a href="https://bcert.me/sfxjplkip" target="blank"><img align="center" src="https://github.com/neeladalja14/neeladalja14.github.io/tree/master/assets/img/csm.png" alt="neeladalja14" height="30" width="40" /></a> &nbsp;&nbsp;
+   <a href="https://www.coursera.org/account/accomplishments/specialization/Z24OOCET32BN" target="blank"><img align="center" src="https://github.com/neeladalja14/neeladalja14.github.io/tree/master/assets/img/googlecloud.png" alt="neeladalja14" height="30" width="40" /></a>
 
 ## 🌐 Connect With Me
 <p align="left">
