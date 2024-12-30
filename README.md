@@ -87,14 +87,17 @@ Here are some of my best works:
 
 ## 📈 Certifications
 <p align="left">
-<a href="https://bcert.me/sfxjplkip" target="blank"><img align="center" src="https://github.com/neeladalja14/neeladalja14.github.io/tree/master/assets/img/csm.png" alt="neeladalja14" height="30" width="40" /></a> &nbsp;&nbsp;
-   <a href="https://www.coursera.org/account/accomplishments/specialization/Z24OOCET32BN" target="blank"><img align="center" src="https://github.com/neeladalja14/neeladalja14.github.io/tree/master/assets/img/googlecloud.png" alt="neeladalja14" height="30" width="40" /></a>
+<a href="https://bcert.me/sfxjplkip" target="blank"><img align="center" src="https://github.com/neeladalja14/neeladalja14/blob/main/assets/csm.png" alt="Certified Scrum Master" height="40" width="40" /></a> &nbsp;&nbsp;
+   <a href="https://www.coursera.org/account/accomplishments/specialization/Z24OOCET32BN" target="blank"><img align="center" src="https://github.com/neeladalja14/neeladalja14/blob/main/assets/google.png" alt="Google Data Analytics" height="40" width="40" /></a>
+
+---
 
 ## 🌐 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/neeladalja14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="love14" height="30" width="40" /></a> &nbsp;&nbsp;
    <a href="https://www.iamneel.net" target="blank"><img align="center" src="https://github.com/neeladalja14/Dec25/blob/main/free-briefcase-icon-1965-thumb.png" alt="neeladalja14" height="30" width="40" /></a>
 
+---
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=neeladalja14&limit=5&theme=dark&combine_all_yearly_contributions=true)
