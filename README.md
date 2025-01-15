@@ -103,9 +103,7 @@ Here are some of my best works:
 ![](https://github-contributor-stats.vercel.app/api?username=neeladalja14&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-<div align="center">
-   <img alt="Visitor Stats" src="https://widgetbite.com/stats/<neeladalja14>"/>  
-</div>
+![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fneeladalja14&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=visitors%3A+&ta=)
 
 
 <!-- [![](https://visitcount.itsvg.in/api?id=neeladalja14&icon=5&color=3)](https://visitcount.itsvg.in) -->
