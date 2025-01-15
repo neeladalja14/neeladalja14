@@ -54,14 +54,14 @@ Version Control and Other Toold:<br>
 
 ## 🚀 Featured Projects
 Here are some of my best works:
-1. [**Project 1**](https://github.com/neeladalja14/Dec25/tree/main/covid_19)  
-   _Description: This project is about Covid-19 Analysis._
+1. [**Project 1**](https://github.com/neeladalja14/Ames_Housing_Project_ML)  
+   _Description: This project is about House Price Prediction._
 
-2. [**Project 2**](https://github.com/neeladalja14/Dec25/blob/main/Neel_IMBD_Top250.ipynb)  
-   _Description: IMDB project - Web Scraping using BeautifulSoup Libraty_
+2. [**Project 2**](https://github.com/neeladalja14/EDA-_And_Feature_Engineering/tree/main/loan%20prediction)  
+   _Description: Loan Prediction_
 
 3. [**Project 3**](https://github.com/neeladalja14/SQL_Projects)  
-   _Description: Sales Analysis using SQL and Tablue._
+   _Description: Data Analytics - Sales Analysis using SQL and Tablue._
 
 ---
 
@@ -79,9 +79,9 @@ Here are some of my best works:
 ---
 
 ## 📚 Latest Blog Posts
-- [**Blog Post 1**](#): How to Ace Data Science Interviews.
-- [**Blog Post 2**](#): Introduction to Flask for Beginners.
-- [**Blog Post 3**](#): My Experience Building a Dockerized Web App.
+- [**Blog Post 1**](https://www.linkedin.com/pulse/how-data-analysts-contribute-business-decision-making-neel-adalja-sktpe/?trackingId=r03FHrj%2BSCajju%2FX8ShxKA%3D%3D): How to Ace Data Science Interviews.
+- [**Blog Post 2**](#): Introduction to Machine Learning for Beginners.
+- [**Blog Post 3**](#): How i Learnend Deep Learning.
 
 ---
 
@@ -103,6 +103,9 @@ Here are some of my best works:
 ![](https://github-contributor-stats.vercel.app/api?username=neeladalja14&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=neeladalja14&icon=5&color=3)](https://visitcount.itsvg.in)
+<div align="center">
+   <img alt="Visitor Stats" src="https://widgetbite.com/stats/<neeladalja14>"/>  
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- [![](https://visitcount.itsvg.in/api?id=neeladalja14&icon=5&color=3)](https://visitcount.itsvg.in) -->
