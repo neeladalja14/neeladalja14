@@ -79,7 +79,7 @@ Here are some of my best works:
 ---
 
 ## 📚 Latest Blog Posts
-- [**Blog Post 1**](https://www.linkedin.com/pulse/how-data-analysts-contribute-business-decision-making-neel-adalja-sktpe/?trackingId=r03FHrj%2BSCajju%2FX8ShxKA%3D%3D): How to Ace Data Science Interviews.
+- [**Blog Post 1**](https://www.linkedin.com/pulse/how-data-analysts-contribute-business-decision-making-neel-adalja-sktpe/?trackingId=r03FHrj%2BSCajju%2FX8ShxKA%3D%3D): How Data Analysts Contribute to Business Decision-Making.
 - [**Blog Post 2**](#): Introduction to Machine Learning for Beginners.
 - [**Blog Post 3**](#): How i Learnend Deep Learning.
 
