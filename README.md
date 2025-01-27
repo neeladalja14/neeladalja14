@@ -81,7 +81,7 @@ Here are some of my best works:
 ## 📚 Latest Blog Posts
 - [**Blog Post 1**](https://www.linkedin.com/pulse/how-data-analysts-contribute-business-decision-making-neel-adalja-sktpe/?trackingId=r03FHrj%2BSCajju%2FX8ShxKA%3D%3D): How Data Analysts Contribute to Business Decision-Making.
 - [**Blog Post 2**](https://www.linkedin.com/pulse/power-machine-learning-catalyst-innovation-neel-adalja-zeeae/?trackingId=PMN6sqJ8U3N5N26MFU5bRQ%3D%3D): The Power of Machine Learning: A Catalyst for Innovation.
-- [**Blog Post 3**](#): How i Learnend Deep Learning.
+- [**Blog Post 3**](https://www.linkedin.com/pulse/deep-learning-beginners-guide-neel-adalja-licve/?trackingId=jGHJhdyQTMaBctisVd%2BN8A%3D%3D): Deep Learning: A Beginners Guide.
 
 ---
 
