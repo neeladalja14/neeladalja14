@@ -55,7 +55,7 @@ Version Control and Other Toold:<br>
 ## 🚀 Featured Projects
 Here are some of my best works:
 1. [**Project 1**](https://github.com/neeladalja14/Ames_Housing_Project_ML)  
-   _Description: This project is about House Price Prediction._
+   _Description: Machine Learning Model Implementation for house price prediction._
 
 2. [**Project 2**](https://github.com/neeladalja14/EDA-_And_Feature_Engineering/tree/main/loan%20prediction)  
    _Description: Loan Prediction_
