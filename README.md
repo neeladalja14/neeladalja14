@@ -63,7 +63,7 @@ Here are some of my best works:
 3. [**Project 3**](https://github.com/neeladalja14/SQL_Projects)  
    _Description: Data Analytics - Sales Analysis using SQL and Tablue._
    
-4. [**Project 3**](https://github.com/neeladalja14/NLP)  
+4. [**Project 4**](https://github.com/neeladalja14/NLP)  
    _Description: NLP - Amazon Customer Sentiment Analysis._
 
 ---
