@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate Data scientist who loves working 
 - 🔭 I’m currently working on **Data Analytics and AIML Bootcamp(#)**
 - 🌱 Learning **[ML Models and AI]**
 - 💬 Ask me about **[Pandas, Scikitlearn, and ML Models]**
-- 📫 Reach me at: **[neel.adalja25@gmail.com]**
+- 📫 Reach me at: **[neeladalja08@gmail.com]**
 - ⚡ Fun fact: **[I love Solving Problems]**
 
 ---
@@ -62,6 +62,9 @@ Here are some of my best works:
 
 3. [**Project 3**](https://github.com/neeladalja14/SQL_Projects)  
    _Description: Data Analytics - Sales Analysis using SQL and Tablue._
+   
+4. [**Project 3**](https://github.com/neeladalja14/NLP)  
+   _Description: NLP - Amazon Customer Sentiment Analysis._
 
 ---
 
