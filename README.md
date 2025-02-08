@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate Data scientist who loves working 
 ---
 
 ## 🌟 About Me
-- 🔭 I’m currently working on **Data Analytics and AIML Bootcamp(#)**
+- 🔭 I’m currently working on **Data Science and AIML Bootcamp(#)**
 - 🌱 Learning **[ML Models and AI]**
 - 💬 Ask me about **[Pandas, Scikitlearn, and ML Models]**
 - 📫 Reach me at: **[neeladalja08@gmail.com]**
